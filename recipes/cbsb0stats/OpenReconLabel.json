@@ -95,14 +95,14 @@
       "label": { "en": "Echo Time 1" },
       "type": "string",
       "information": { "en": "Manually define TE1 in case it cannot be found during scan. UNITS: milliseconds" },
-      "default": "3.06"
+      "default": "10.00"
     },
     {
       "id": "TE2",
       "label": { "en": "Echo Time 2" },
       "type": "string",
       "information": { "en": "Manually define TE2 in case it cannot be found during scan. UNITS: milliseconds" },
-      "default": "4.08"
+      "default": "12.00"
     },
     {
       "id": "VerboseLogging",
