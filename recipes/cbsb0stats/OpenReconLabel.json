@@ -75,7 +75,14 @@
       "minimum": 0.0,
       "maximum": 1.0,
       "default": 0.4
-    },    
+    },
+    {
+      "id": "gaussianSmoothing",
+      "label": { "en": "gaussian smoothing" },
+      "type": "boolean",
+      "information": { "en": "Apply 2D slice-by-slice gaussian smoothing to the B0map image" },
+      "default": false
+    }, 
     {
       "id": "SendOriginals",
       "label": { "en": "Send Original Images" },
